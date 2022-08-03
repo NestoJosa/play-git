@@ -6,3 +6,5 @@ this is a new feature
 this is some new code to the feature
 
 done with the new feature
+
+this is annew line 
